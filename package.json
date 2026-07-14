@@ -1,0 +1,14 @@
+{
+  "name": "eeg-state-visualizer",
+  "version": "1.0.0",
+  "description": "Brainwave to visual pattern translation engine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shubham Sunil Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
